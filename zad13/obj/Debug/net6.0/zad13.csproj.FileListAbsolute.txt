@@ -1,0 +1,15 @@
+/Users/denislevchakov/Desktop/C# Seminars/Seminar2/zad13/obj/Debug/net6.0/zad13.csproj.AssemblyReference.cache
+/Users/denislevchakov/Desktop/C# Seminars/Seminar2/zad13/obj/Debug/net6.0/zad13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denislevchakov/Desktop/C# Seminars/Seminar2/zad13/obj/Debug/net6.0/zad13.AssemblyInfoInputs.cache
+/Users/denislevchakov/Desktop/C# Seminars/Seminar2/zad13/obj/Debug/net6.0/zad13.AssemblyInfo.cs
+/Users/denislevchakov/Desktop/C# Seminars/Seminar2/zad13/obj/Debug/net6.0/zad13.csproj.CoreCompileInputs.cache
+/Users/denislevchakov/Desktop/C# Seminars/Seminar2/zad13/bin/Debug/net6.0/zad13
+/Users/denislevchakov/Desktop/C# Seminars/Seminar2/zad13/bin/Debug/net6.0/zad13.deps.json
+/Users/denislevchakov/Desktop/C# Seminars/Seminar2/zad13/bin/Debug/net6.0/zad13.runtimeconfig.json
+/Users/denislevchakov/Desktop/C# Seminars/Seminar2/zad13/bin/Debug/net6.0/zad13.dll
+/Users/denislevchakov/Desktop/C# Seminars/Seminar2/zad13/bin/Debug/net6.0/zad13.pdb
+/Users/denislevchakov/Desktop/C# Seminars/Seminar2/zad13/obj/Debug/net6.0/zad13.dll
+/Users/denislevchakov/Desktop/C# Seminars/Seminar2/zad13/obj/Debug/net6.0/refint/zad13.dll
+/Users/denislevchakov/Desktop/C# Seminars/Seminar2/zad13/obj/Debug/net6.0/zad13.pdb
+/Users/denislevchakov/Desktop/C# Seminars/Seminar2/zad13/obj/Debug/net6.0/zad13.genruntimeconfig.cache
+/Users/denislevchakov/Desktop/C# Seminars/Seminar2/zad13/obj/Debug/net6.0/ref/zad13.dll
