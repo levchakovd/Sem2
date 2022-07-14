@@ -11,8 +11,8 @@ y=1;
 //double result=Math.Log(pre,preresult);
 
 while (a<b)
-    c=c/100;
-    a=a*(1+c);
+    
+    a=a*(1+c/100);
     y++;
 
 Console.WriteLine("нужная сумма получится через" + y + "лет");
