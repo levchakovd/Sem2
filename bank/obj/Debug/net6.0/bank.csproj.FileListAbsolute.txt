@@ -1,0 +1,15 @@
+/Users/denislevchakov/Desktop/C# Seminars/Seminar2/bank/obj/Debug/net6.0/bank.csproj.AssemblyReference.cache
+/Users/denislevchakov/Desktop/C# Seminars/Seminar2/bank/obj/Debug/net6.0/bank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denislevchakov/Desktop/C# Seminars/Seminar2/bank/obj/Debug/net6.0/bank.AssemblyInfoInputs.cache
+/Users/denislevchakov/Desktop/C# Seminars/Seminar2/bank/obj/Debug/net6.0/bank.AssemblyInfo.cs
+/Users/denislevchakov/Desktop/C# Seminars/Seminar2/bank/obj/Debug/net6.0/bank.csproj.CoreCompileInputs.cache
+/Users/denislevchakov/Desktop/C# Seminars/Seminar2/bank/bin/Debug/net6.0/bank
+/Users/denislevchakov/Desktop/C# Seminars/Seminar2/bank/bin/Debug/net6.0/bank.deps.json
+/Users/denislevchakov/Desktop/C# Seminars/Seminar2/bank/bin/Debug/net6.0/bank.runtimeconfig.json
+/Users/denislevchakov/Desktop/C# Seminars/Seminar2/bank/bin/Debug/net6.0/bank.dll
+/Users/denislevchakov/Desktop/C# Seminars/Seminar2/bank/bin/Debug/net6.0/bank.pdb
+/Users/denislevchakov/Desktop/C# Seminars/Seminar2/bank/obj/Debug/net6.0/bank.dll
+/Users/denislevchakov/Desktop/C# Seminars/Seminar2/bank/obj/Debug/net6.0/refint/bank.dll
+/Users/denislevchakov/Desktop/C# Seminars/Seminar2/bank/obj/Debug/net6.0/bank.pdb
+/Users/denislevchakov/Desktop/C# Seminars/Seminar2/bank/obj/Debug/net6.0/bank.genruntimeconfig.cache
+/Users/denislevchakov/Desktop/C# Seminars/Seminar2/bank/obj/Debug/net6.0/ref/bank.dll
