@@ -1,0 +1,15 @@
+/Users/denislevchakov/Desktop/C# Seminars/Seminar2/run/bin/Debug/net6.0/run
+/Users/denislevchakov/Desktop/C# Seminars/Seminar2/run/bin/Debug/net6.0/run.deps.json
+/Users/denislevchakov/Desktop/C# Seminars/Seminar2/run/bin/Debug/net6.0/run.runtimeconfig.json
+/Users/denislevchakov/Desktop/C# Seminars/Seminar2/run/bin/Debug/net6.0/run.dll
+/Users/denislevchakov/Desktop/C# Seminars/Seminar2/run/bin/Debug/net6.0/run.pdb
+/Users/denislevchakov/Desktop/C# Seminars/Seminar2/run/obj/Debug/net6.0/run.csproj.AssemblyReference.cache
+/Users/denislevchakov/Desktop/C# Seminars/Seminar2/run/obj/Debug/net6.0/run.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denislevchakov/Desktop/C# Seminars/Seminar2/run/obj/Debug/net6.0/run.AssemblyInfoInputs.cache
+/Users/denislevchakov/Desktop/C# Seminars/Seminar2/run/obj/Debug/net6.0/run.AssemblyInfo.cs
+/Users/denislevchakov/Desktop/C# Seminars/Seminar2/run/obj/Debug/net6.0/run.csproj.CoreCompileInputs.cache
+/Users/denislevchakov/Desktop/C# Seminars/Seminar2/run/obj/Debug/net6.0/run.dll
+/Users/denislevchakov/Desktop/C# Seminars/Seminar2/run/obj/Debug/net6.0/refint/run.dll
+/Users/denislevchakov/Desktop/C# Seminars/Seminar2/run/obj/Debug/net6.0/run.pdb
+/Users/denislevchakov/Desktop/C# Seminars/Seminar2/run/obj/Debug/net6.0/run.genruntimeconfig.cache
+/Users/denislevchakov/Desktop/C# Seminars/Seminar2/run/obj/Debug/net6.0/ref/run.dll
