@@ -1,20 +1,14 @@
-﻿int a,b,c,y;
+﻿int a,b,c;
 Console.WriteLine("Ваша стартовая сумма - ");
 a = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Желаемая сумма - ");
 b = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Процент годовых- ");
 c = Convert.ToInt32(Console.ReadLine());
-y=1;
-//double preresult = 1+c/100;
-//double pre = (b/a);
-//double result=Math.Log(pre,preresult);
 
-while (a<b)
-{
-    int result=a*(1+c/100);
-    a=result;
-    y++;
-} 
+double preresult,pre;
+Convert.ToDouble(preresult = 1+c/100);
+Convert.ToDouble(pre = (b/a));
+int result=Convert.ToInt32(Math.Log(pre,preresult));
 
-Console.WriteLine(y);
+Console.WriteLine(result);
