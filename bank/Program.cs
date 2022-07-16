@@ -12,7 +12,8 @@ y=1;
 
 while (a<b)
 {
-    a=a*(1+c/100);
+    int result=a*(1+c/100);
+    a=result;
     y++;
 } 
 
